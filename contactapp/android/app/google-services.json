@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256506385828",
+    "firebase_url": "https://contactapp-8fe8b.firebaseio.com",
+    "project_id": "contactapp-8fe8b",
+    "storage_bucket": "contactapp-8fe8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256506385828:android:e2588ebb51a1d156",
+        "android_client_info": {
+          "package_name": "com.example.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256506385828-0m1vo2r50u0rd76jci49bgnulfob82ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOjwvOrZ2AV--D3L1Kf6V9r7W1LOgLqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256506385828-0m1vo2r50u0rd76jci49bgnulfob82ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
